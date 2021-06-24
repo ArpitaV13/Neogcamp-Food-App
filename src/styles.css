@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(179, 241, 177);
+}
+button {
+  margin: 1rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  border: 1px solid black;
+  background-color: rgb(92, 221, 87);
+  font-size: medium;
+  border-radius: 0.5rem;
+}
+hr {
+  width: 80%;
+  color: black;
+}
+li {
+  list-style-type: none;
+  cursor: pointer;
+  font-style: italic;
+  padding: 1rem;
+  border: 1px solid black;
+  margin: auto;
+  width: 50%;
+  border-radius: 0.5rem;
+  text-align: center;
+}
