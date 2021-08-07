@@ -7,8 +7,10 @@
 
 My First **React** App.:book: 📝
 
-This app tells you about different kinds of food you can have according to your cuisine. 🍨
+# How it works:
+* This app tells you about different kinds of food you can have according to your cuisine. 🍨
+* Just select what you want to eat today. 🥩
 
-Do not forget to share it with your friends too.
+Do not forget to share it with your friends too. 🤝
  
 
