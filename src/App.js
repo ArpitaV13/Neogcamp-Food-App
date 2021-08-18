@@ -5,7 +5,7 @@ var image = "🍔";
 
 var Indian = [
   "Paneer-do-Pyaza:Paneer do pyaza is a restaurant style paneer recipe with delicious, aromatic gravy that has mild hints of sweet and slightly tangy taste. Rating: ⭐⭐⭐⭐",
-  "Pav Bhaji: Pav bhaji is an Indian fast food consisting of a spicy vegetable gravy served with soft dinner rolls. Rating: ⭐⭐⭐",
+  "Pav Bhaji: Pav bhaji is an Indian fast food consisting of a spicy vegetable gravy served with soft bread. Rating: ⭐⭐⭐",
   "Dum-Aloo Lakhwani: About Dum Aloo Lakhnavi Recipe: Fried potatoes stuffed with paneer, dizzled in a rich, spiced and tangy onion and tomato gravy. Rating: ⭐⭐⭐⭐",
   "Choley-Bhature: Chole bhature is a combination of chana masala (spicy white chickpeas) and bhatura/puri, a fried bread made from maida. Rating: ⭐⭐⭐⭐⭐"
 ];
